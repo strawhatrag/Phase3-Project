@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="2" passed="2">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="2017" started-at="2021-12-03T07:27:37Z" finished-at="2021-12-03T07:27:39Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="2017" started-at="2021-12-03T07:27:37Z" finished-at="2021-12-03T07:27:39Z">
+      <class name="Phase3.GetRequest">
+        <test-method status="PASS" signature="GetCall()[pri:0, instance:Phase3.GetRequest@78ac1102]" name="GetCall" duration-ms="1678" started-at="2021-12-03T07:27:37Z" finished-at="2021-12-03T07:27:39Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- GetCall -->
+      </class> <!-- Phase3.GetRequest -->
+      <class name="Phase3.PostRequest">
+        <test-method status="PASS" signature="PostCall()[pri:0, instance:Phase3.PostRequest@2de8284b]" name="PostCall" duration-ms="316" started-at="2021-12-03T07:27:39Z" finished-at="2021-12-03T07:27:39Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- PostCall -->
+      </class> <!-- Phase3.PostRequest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
